@@ -1,0 +1,42 @@
+main:
+
+  - title: "AdaFormer: Efficient Transformer with Adaptive Token Sparsification for Image Super-resolution"
+    authors: <strong>Xiaotong Luo</strong>, Zekun Ai, Qiuyuan Liang, Ding Liu, Yuan Xie, Yanyun Qu, Yun Fu 
+    conference: Thirty-Eighth AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    image: ./assets/img/AdaFormer.png
+    notes: Oral Presentation
+    
+  - title: "SkipDiff: Adaptive Skip Diffusion Model for High-fidelity Perceptual Image Super-resolution"
+    authors: <strong>Xiaotong Luo</strong>, Yuan Xie, Yanyun Qu, Yun Fu 
+    conference: Thirty-Eighth AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    image: ./assets/img/SkipDiff.png
+    
+  - title: "Learning Re-sampling Methods with Parameter Attribution for Image Super-resolution"
+    authors: <strong>Xiaotong Luo</strong>, Yuan Xie, Yanyun Qu
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    image: ./assets/img/BSPA.png
+    
+  - title: "Memory-friendly Scalable Super-resolution via Rewinding Lottery Ticket Hypothesis"
+    authors: Jin Lin, <strong>Xiaotong Luo</strong>, Ming Hong, Yanyun Qu, Yuan Xie, Zongze Wu
+    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    image: ./assets/img/MSSR.png
+    
+  - title: "Adjustable Memory-efficient Image Super-resolution via Individual Kernel Sparsity"
+    authors: <strong>Xiaotong Luo</strong>, Mingliang Dai, Yulun Zhang, Yuan Xie, Ding Liu, Yanyun Qu, Yun Fu, Junping Zhang
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2022.
+    image: ./assets/img/IKS.png
+    
+  - title: "Lattice Network for Lightweight Image Restoration"
+    authors: <strong>Xiaotong Luo</strong>, Mingliang Dai, Yulun Zhang, Yuan Xie, Ding Liu, Yanyun Qu, Yun Fu, Junping Zhang
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2022.
+    image: ./assets/img/LB.png
+    
+  - title: "Boosting lightweight Single Image Super-resolution via Joint-distillation"
+    authors: <strong>Xiaotong Luo</strong>, Qiuyuan Liang, Ding Liu, Yanyun Qu
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2021.
+    image: ./assets/img/JDSR.png
+    
+  - title: "LatticeNet: Towards Lightweight Image Super-Resolution with Lattice Block"
+    authors: <strong>Xiaotong Luo</strong>, Yuan Xie, Yulun Zhang, Yanyun Qu, Cuihua Li, Yun Fu
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.
+    image: ./assets/img/LatticeNet.png
