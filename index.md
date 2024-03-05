@@ -21,7 +21,6 @@ Now I am looking for a teaching and research position.
 - **[Sep. 2023]** I am awarded the National Scholarship!
 - **[Mar. 2023]** One papers is accepted to ICME 2023!
 - **[Feb. 2023]** One papers is accepted to CVPR 2023!
-- **[Oct. 2023]** One papers is accepted to NeurIPS 2023!
 - **[Jul. 2022]** One papers is accepted to TPAMI 2022!
 - **[Jun. 2022]** One papers is accepted to ACM MM 2022!
 - **[Jul. 2021]** One papers is accepted to ACM MM 2021!
