@@ -1,42 +1,76 @@
 main:
+  - title: "Memory-efficient High-ratio Model Compression for Image Super-resolution via Hybrid Hashing"
+    authors: Hongzhan Huang, <strong>Xiaotong Luo</strong>, Jiangmin Shi, Jiayong Zhong, Yuan Xie, Yanyun Qu
+    conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2026.
+    image: ./assets/img/HHPS.png
+    conference_short: TIP 2026
+
+  - title: "Degradation-Consistent Test-Time Adaptation for All-in-One Image Restoration"
+    authors: Ni Tang, Shenghao Nie, <strong>Xiaotong Luo*</strong>, Yuan Xie, Yanyun Qu
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    image: ./assets/img/DCTTA.png
+    conference_short: CVPR 2026
+
+  - title: "Diffusion Once and Done: Degradation-Aware LoRA for All-in-One Image Restoration"
+    authors: Ni Tang*, <strong>Xiaotong Luo*</strong>, Zihan Cheng, Liangtai Zhou, Dongxiao Zhang, Yanyun Qu
+    conference: Fortieth AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
+    conference_short: AAAI 2026
+    image: ./assets/img/DOD.png
+    notes: Equal Contribution
+
+  - title: "SkipVSR: Adaptive Patch Routing for Video Super-Resolution with Inter-Frame Mask"
+    authors: Zekun Ai*, <strong>Xiaotong Luo*</strong>, Yanyun Qu, Yuan Xie
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
+    conference_short: ACM MM 2024
+    image: ./assets/img/SkipVSR.png
+    notes: Equal Contribution
 
   - title: "AdaFormer: Efficient Transformer with Adaptive Token Sparsification for Image Super-resolution"
-    authors: <strong>Xiaotong Luo</strong>, Zekun Ai, Qiuyuan Liang, Ding Liu, Yuan Xie, Yanyun Qu, Yun Fu 
+    authors: <strong>Xiaotong Luo</strong>, Zekun Ai, Qiuyuan Liang, Ding Liu, Yuan Xie, Yanyun Qu, Yun Fu
     conference: Thirty-Eighth AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    conference_short: AAAI 2024
     image: ./assets/img/AdaFormer.png
     notes: Oral Presentation
-    
+
   - title: "SkipDiff: Adaptive Skip Diffusion Model for High-fidelity Perceptual Image Super-resolution"
-    authors: <strong>Xiaotong Luo</strong>, Yuan Xie, Yanyun Qu, Yun Fu 
+    authors: <strong>Xiaotong Luo</strong>, Yuan Xie, Yanyun Qu, Yun Fu
     conference: Thirty-Eighth AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    conference_short: AAAI 2024
     image: ./assets/img/SkipDiff.png
-    
+
   - title: "Learning Re-sampling Methods with Parameter Attribution for Image Super-resolution"
     authors: <strong>Xiaotong Luo</strong>, Yuan Xie, Yanyun Qu
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    conference_short: NeurIPS 2023
     image: ./assets/img/BSPA.png
-    
+
   - title: "Memory-friendly Scalable Super-resolution via Rewinding Lottery Ticket Hypothesis"
-    authors: Jin Lin, <strong>Xiaotong Luo</strong>, Ming Hong, Yanyun Qu, Yuan Xie, Zongze Wu
-    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    authors: Jin Lin*, <strong>Xiaotong Luo*</strong>, Ming Hong, Yanyun Qu, Yuan Xie, Zongze Wu
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    conference_short: CVPR 2023
     image: ./assets/img/MSSR.png
-    
+    notes: Equal Contribution
+
+  - title: "Lattice Network for Lightweight Image Restoration"
+    authors: <strong>Xiaotong Luo</strong>, Yanyun Qu, Yuan Xie, Yulun Zhang, Cuihua Li, Yun Fu
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2023.
+    conference_short: TPAMI
+    image: ./assets/img/LB.png
+
   - title: "Adjustable Memory-efficient Image Super-resolution via Individual Kernel Sparsity"
     authors: <strong>Xiaotong Luo</strong>, Mingliang Dai, Yulun Zhang, Yuan Xie, Ding Liu, Yanyun Qu, Yun Fu, Junping Zhang
     conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2022.
+    conference_short: ACM MM 2022
     image: ./assets/img/IKS.png
-    
-  - title: "Lattice Network for Lightweight Image Restoration"
-    authors: <strong>Xiaotong Luo</strong>, Mingliang Dai, Yulun Zhang, Yuan Xie, Ding Liu, Yanyun Qu, Yun Fu, Junping Zhang
-    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2022.
-    image: ./assets/img/LB.png
-    
-  - title: "Boosting lightweight Single Image Super-resolution via Joint-distillation"
+
+  - title: "Boosting Lightweight Single Image Super-resolution via Joint-distillation"
     authors: <strong>Xiaotong Luo</strong>, Qiuyuan Liang, Ding Liu, Yanyun Qu
     conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2021.
+    conference_short: ACM MM 2021
     image: ./assets/img/JDSR.png
-    
-  - title: "LatticeNet: Towards Lightweight Image Super-Resolution with Lattice Block"
+
+  - title: "LatticeNet: Towards Lightweight Image Super-resolution with Lattice Block"
     authors: <strong>Xiaotong Luo</strong>, Yuan Xie, Yulun Zhang, Yanyun Qu, Cuihua Li, Yun Fu
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.
+    conference_short: ECCV 2020
     image: ./assets/img/LatticeNet.png
