@@ -6,7 +6,7 @@ main:
     conference_short: TIP 2026
 
   - title: "Degradation-Consistent Test-Time Adaptation for All-in-One Image Restoration"
-    authors: Ni Tang, Shenghao Nie, <strong>Xiaotong Luo*</strong>, Yuan Xie, Yanyun Qu
+    authors: Ni Tang, Shenghao Nie, <strong>Xiaotong Luo</strong>, Yuan Xie, Yanyun Qu
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
     image: ./assets/img/DCTTA.png
     conference_short: CVPR 2026
